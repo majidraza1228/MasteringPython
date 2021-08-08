@@ -7,7 +7,7 @@
 #print(y(100,5))  # call the function
 
 
-first_name="syed"
+first_name=" majid "
 last_name="raza"
 
 full_name = first_name+last_name
