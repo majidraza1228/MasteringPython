@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "HelloPoetry"
+name = "MyPoetry"
 version = "0.1.0"
-description = "This is Poetry Learning project"
-authors = ["syed majid raza"]
-license = "y"
+description = ""
+authors = ["syedraza <majidraza@hotmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
-FAST = "^2.5"
+python = "^3.9"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
+pytest = "^5.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
