@@ -5,6 +5,8 @@ def is_palindrome(s):
         return False
     
     
+ #q:What is the difference between a list and a tuple?
+ 
  
 
 
